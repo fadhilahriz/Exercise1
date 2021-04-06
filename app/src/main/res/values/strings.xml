@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise 1</string>
+    <string name="email">Masukkan Email</string>
+    <string name="pass">Masukkan Password</string>
+    <string name="login">Login</string>
+    <string name="editdata">Lihat Nomor</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="notel">No Telepon</string>
+</resources>
